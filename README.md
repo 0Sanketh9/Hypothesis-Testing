@@ -10,10 +10,10 @@ a) CUTLET-----A F&B manager wants to determine whether there is any significant 
               We got pvalue as 0.47 > than significance level(5%).so "WE ACCEPT NULL HYPOTHESIS(H0)". 
               
               
-b)LabTAT----- A hospital wants to determine whether there is any difference in the average Turn Around Time (TAT) of reports of the laboratories on their preferred list. They collected a random sample and recorded TAT for reports of 4 laboratories. TAT is defined as sample collected to report dispatch.
-   Analyze the data and determine whether there is any difference in average TAT among the different laboratories at 5% significance level.
- 
-   Assumptions   H0:No difference in average TAT of reports for different laboratories. 
+b)LabTAT----- A hospital wants to determine whether there is any difference in the average Turn Around Time (TAT) of reports of the laboratories on their preferred list. They collected a random sample and recorded TAT for reports of 4 laboratories. TAT is defined as sample collected to report dispatch.Analyze the data and determine whether there is any difference in average TAT among the different laboratories at 5% significance level.
+
+
+Assumptions   H0:No difference in average TAT of reports for different laboratories. 
               H1:Yes there is significant  average TAT of reports for different laboratories.
   
   INFERENCE:::Using  Using "ANOVA TEST"
